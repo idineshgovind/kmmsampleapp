@@ -15,10 +15,10 @@ Includes: Ktor client and features, Kotlinxserializer, Coroutines, Kodein, Unit 
   	</tr>
 	<tr>
     	<td align="center">
-			<img src="https://raw.githubusercontent.com/Angads25/KMM-Sample-App/master/screenshots/AndroidApp.png" alt="Android App" width="300"/>
+			<img src="https://raw.githubusercontent.com/dinesh/KMM-Sample-App/master/screenshots/AndroidApp.png" alt="Android App" width="300"/>
     	</td>
 		<td align="center">
-			<img src="https://raw.githubusercontent.com/Angads25/KMM-Sample-App/master/screenshots/iOSApp.png" alt="iOS App" width="300"/>
+			<img src="https://raw.githubusercontent.com/dinesh/KMM-Sample-App/master/screenshots/iOSApp.png" alt="iOS App" width="300"/>
     	</td>
   	</tr>
 </table>
