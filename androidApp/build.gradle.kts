@@ -19,7 +19,7 @@ dependencies {
 android {
     compileSdkVersion(30)
     defaultConfig {
-        applicationId = "com.github.angads25.kmmsampleapp.android"
+        applicationId = "com.github.dinesh.kmmsampleapp.android"
         minSdkVersion(21)
         targetSdkVersion(30)
         versionCode = 1
